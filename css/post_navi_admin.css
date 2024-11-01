@@ -1,0 +1,16 @@
+
+/*************** ADMIN CSS ***************/
+
+#postnavi_link_color {
+    box-sizing: border-box;
+    margin-left: 4px;
+    padding-left: 27px;
+    width: 184px;
+}
+.postnavi_symbol {
+    border-right: 1px solid #ccc;
+    margin-left: 5px;
+    margin-right: -25px;
+    padding: 4px;
+    position: relative;
+}
